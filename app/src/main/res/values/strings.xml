@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FacebookBug_323761688312312</string>
+    <string name="facebook_app_id">863637690504244</string>
+    <string name="fb_login_protocol_scheme">fb863637690504244</string>
+</resources>
